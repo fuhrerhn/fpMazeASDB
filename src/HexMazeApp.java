@@ -13,7 +13,7 @@ public class HexMazeApp extends JFrame {
     private JLabel lblStatSteps;
     private JLabel lblStatCost;
 
-    public HexMazeApp() {
+    pubgit statusgit statuslic HexMazeApp() {
         setTitle("Hexagonal Maze - Advanced Pathfinder (OOP)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(1200, 800);
